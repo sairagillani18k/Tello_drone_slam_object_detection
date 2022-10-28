@@ -1,0 +1,8 @@
+%  myTello = ryze();
+% 
+%  cameraObj = camera(myTello);
+% 
+% preview(cameraObj);
+% takeoff(myTello);
+%flip(myTello,"left")
+land(myTello);
